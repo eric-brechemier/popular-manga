@@ -1,0 +1,2 @@
+# ignore temporary LibreOffice/OpenOffice lock files
+.~lock.*
