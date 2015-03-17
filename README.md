@@ -16,9 +16,9 @@ you need to request an API key and to copy it to a configuration file:
    and copy it to a new file named `nytimes.txt`
    in the `config` folder of this repository:
 
-   ```
-   Key: [replace with your key]
-   ```
+```
+Key: [replace with your key]
+```
 
 ## Attribution
 
