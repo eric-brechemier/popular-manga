@@ -2,17 +2,8 @@
 cd "$(dirname $0)"
 
 . ./apiKey.property.sh
-
-# read URL from meta.txt and replace API Key
-url=$(
-  grep '^URL:' ../meta.txt |
-  cut -d' ' -f2 |
-  sed "s/\[your-key\]/$apiKey/"
-)
-echo "URL: $url"
-
-file="$(basename ${url%%\?*})"
-echo "File: $file"
+. ./url.property.sh
+. ./file.property.sh
 
 wget -O "$file" "$url"
 
