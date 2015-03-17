@@ -1,0 +1,3 @@
+# keep user configuration files out of the repository
+# (they contain API secrets used for authentication)
+*.txt
