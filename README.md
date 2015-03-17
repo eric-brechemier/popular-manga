@@ -13,7 +13,7 @@ you need to request an API key and to copy it to a configuration file:
    (http://developer.nytimes.com/apps/register)
 4. [Copy the key from your list of keys]
    (http://developer.nytimes.com/apps/mykeys)
-   and copy it to a new file named `nytimes.txt`
+   and paste it into a new file named `nytimes.txt`
    in the `config` folder of this repository:
 
 ```
