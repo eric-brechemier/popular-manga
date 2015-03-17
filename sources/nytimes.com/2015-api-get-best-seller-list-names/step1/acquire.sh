@@ -1,5 +1,5 @@
 #!/bin/sh
-cd "$(dirname $0)"
+cd "$(dirname "$0")"
 
 . ./apiKey.property.sh
 . ./url.property.sh
