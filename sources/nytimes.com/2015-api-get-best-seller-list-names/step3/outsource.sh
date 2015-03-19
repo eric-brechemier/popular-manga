@@ -71,8 +71,6 @@ throttle_incrementEvents()
 throttle()
 {
   throttle_incrementEvents
-  echo "Total Events Since Last Sleep: $throttle_totalEventsSinceLastSleep"
-  echo "Total Events in Current Second: $throttle_totalEventsInCurrentSecond"
 
   if test "$throttle_totalEventsInCurrentSecond" -gt "$throttle_halfLimit"
   then
@@ -85,7 +83,6 @@ throttle()
        "$throttle_totalEventsSinceLastSleep" -gt "$throttle_maxEventsPerSecond"
   then
     throttle_reset
-    echo "SLEEP"
     sleep 1
     throttle_incrementEvents
   fi
@@ -142,9 +139,7 @@ then
 
     currentSeconds="$(seconds_in_hour)"
     interval=$( delta_seconds_in_hour $startSeconds $currentSeconds )
-    echo "$currentSeconds - $startSeconds = $interval"
-    echo "Interval: $interval seconds"
-
+    echo "Duration: $interval seconds"
     echo "Rate: $(( $counter / ( 1 + $interval ) )) / second"
 
     echo "Julian Day: $julianDay"
