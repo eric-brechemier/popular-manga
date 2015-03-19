@@ -77,10 +77,8 @@ throttle()
     throttle_isThrottlingNeeded=$throttle_true
   fi
 
-  if test \
-       "$throttle_isThrottlingNeeded" = "$throttle_true" &&
-     test \
-       "$throttle_totalEventsSinceLastSleep" -gt "$throttle_maxEventsPerSecond"
+  if test "$throttle_isThrottlingNeeded" = "$throttle_true" \
+  -a "$throttle_totalEventsSinceLastSleep" -gt "$throttle_maxEventsPerSecond"
   then
     throttle_reset
     sleep 1
