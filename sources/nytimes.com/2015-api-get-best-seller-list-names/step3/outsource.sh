@@ -42,6 +42,11 @@ throttle_setMaxEventsPerSecond()
   throttle_halfLimit="$(( $throttle_maxEventsPerSecond / 2 ))"
 }
 
+# set maximum number of events to 1 by default
+throttle_setMaxEventsPerSecond 1
+
+# Increment the number of events
+# This method is called internally in throttle().
 throttle_incrementEvents()
 {
   throttle_totalEventsSinceLastSleep="$((
@@ -60,6 +65,9 @@ throttle_incrementEvents()
   fi
 }
 
+# Throttle a stream of events by introducing 1 second delays
+# to keep the number of events per second below the maximum value
+# configured by calling throttle_setMaxEventsPerSecond(), or 1 by default.
 throttle()
 {
   throttle_incrementEvents
