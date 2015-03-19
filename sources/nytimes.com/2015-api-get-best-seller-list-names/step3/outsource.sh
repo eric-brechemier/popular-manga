@@ -2,19 +2,92 @@
 # Requires csvcut, from csvkit (0.9.0)
 cd "$(dirname "$0")"
 
-# Return the number of seconds since the start of current hour
+# Boolean values true and false
+throttle_true="T"
+throttle_false="F"
+
+# Get the time, formatted to track 'current second' over time
+# The time using this format loops every 24 hours;
+# no interval of more than one day is expected.
+throttle_getTime()
+{
+  date +%H%M%S
+}
+
+# Reset Throttling, initially or before a 1 second sleep
+throttle_reset()
+{
+  throttle_totalEventsSinceLastSleep=0
+  throttle_totalEventsInCurrentSecond=0
+  throttle_isThrottlingNeeded=$throttle_false
+  throttle_previousTime="$( throttle_getTime )"
+  throttle_currentTime="$( throttle_getTime )"
+}
+
+throttle_reset
+
+# Set the maximum number of events allowed per second
+#
+# Parameter
+#   $1 - integer, maximum number of events expected in one second
+throttle_setMaxEventsPerSecond()
+{
+  throttle_maxEventsPerSecond="$1"
+
+  # Given the lack of accuracy of POSIX time utility,
+  # the limit is halved and no more than half of the maximum
+  # number of events are allowed in a given second;
+  # this prevents potentially exceeding the limit
+  # over a sliding window of one second.
+  throttle_halfLimit="$(( $throttle_maxEventsPerSecond / 2 ))"
+}
+
+throttle_incrementEvents()
+{
+  throttle_totalEventsSinceLastSleep="$((
+    $throttle_totalEventsSinceLastSleep + 1
+  ))"
+
+  throttle_currentTime="$( throttle_getTime )"
+  if test "$throttle_currentTime" = "$throttle_previousTime"
+  then
+    throttle_totalEventsInCurrentSecond="$((
+      $throttle_totalEventsInCurrentSecond + 1
+    ))"
+  else
+    throttle_totalEventsInCurrentSecond=1
+    throttle_previousTime="$throttle_currentTime"
+  fi
+}
+
+throttle()
+{
+  throttle_incrementEvents
+  echo "Total Events Since Last Sleep: $throttle_totalEventsSinceLastSleep"
+  echo "Total Events in Current Second: $throttle_totalEventsInCurrentSecond"
+
+  if test "$throttle_totalEventsInCurrentSecond" -gt "$throttle_halfLimit"
+  then
+    throttle_isThrottlingNeeded=$throttle_true
+  fi
+
+  if test \
+       "$throttle_isThrottlingNeeded" = "$throttle_true" &&
+     test \
+       "$throttle_totalEventsSinceLastSleep" -gt "$throttle_maxEventsPerSecond"
+  then
+    throttle_reset
+    echo "SLEEP"
+    sleep 1
+    throttle_incrementEvents
+  fi
+}
+
 seconds_in_hour()
 {
   echo "$(date +'%M * 60 + %S' | bc)"
 }
 
-# Return the difference between two numbers of seconds in an hour.
-# The second value is considered to correspond to a date less than
-# one hour later than the first value, which allows to compute the
-# difference across hour boundaries.
-# This method is intended to measure intervals ranging from less than
-# a second (but without the subsecond granularity) to a few seconds.
-# It remains valid for intervals smaller than 1 hour.
 delta_seconds_in_hour()
 {
   echo "$(( ( $2 - $1 + 3600 ) % 3600 ))"
@@ -43,6 +116,8 @@ then
   echo "Julian Day Start: $julianStartDay"
   julianDay="$julianStartDay"
 
+  throttle_setMaxEventsPerSecond 8
+
   startSeconds="$(seconds_in_hour)"
   counter=0
 
@@ -52,13 +127,19 @@ then
   # while test "$julianDay" -lt "$julianDay"
   until test "$julianDay" -gt "$julianEndDay"
   do
-    echo "Julian Day: $julianDay"
+    throttle
 
     counter=$(( $counter + 1 ))
+    echo "Counter: $counter"
+
     currentSeconds="$(seconds_in_hour)"
     interval=$( delta_seconds_in_hour $startSeconds $currentSeconds )
-    echo "Rate: $(( $counter / (1+$interval) )) / second"
+    echo "$currentSeconds - $startSeconds = $interval"
+    echo "Interval: $interval seconds"
 
+    echo "Rate: $(( $counter / ( 1 + $interval ) )) / second"
+
+    echo "Julian Day: $julianDay"
     isoDate="$( ./julian2iso.sh "$julianDay")"
     echo "ISO Date: $isoDate"
     julianDay="$(( $julianDay + $daysOffset ))"
