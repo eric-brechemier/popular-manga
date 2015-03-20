@@ -2,7 +2,7 @@
 # Requires csvcut, from csvkit (0.9.0)
 cd "$(dirname "$0")"
 
-. ./throttle.sh
+. ./lib/throttle.sh
 
 seconds_in_hour()
 {
@@ -23,8 +23,8 @@ then
   echo "End Date: $endDate"
   echo "Frequency: $frequency"
 
-  julianStartDay="$(./iso2julian.sh "$startDate")"
-  julianEndDay="$(./iso2julian.sh "$endDate")"
+  julianStartDay="$(./lib/iso2julian.sh "$startDate")"
+  julianEndDay="$(./lib/iso2julian.sh "$endDate")"
 
   if test "$frequency" = "WEEKLY"
   then
@@ -59,7 +59,7 @@ then
     echo "Rate: $(( $counter / ( 1 + $interval ) )) / second"
 
     echo "Julian Day: $julianDay"
-    isoDate="$( ./julian2iso.sh "$julianDay")"
+    isoDate="$( ./lib/julian2iso.sh "$julianDay")"
     echo "ISO Date: $isoDate"
     julianDay="$(( $julianDay + $daysOffset ))"
   done
