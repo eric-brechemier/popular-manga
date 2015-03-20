@@ -21,14 +21,22 @@ delta_seconds_in_hour()
   echo "$(( ( $2 - $1 + 3600 ) % 3600 ))"
 }
 
+# Write a message both to standard output and the file log.txt
+log()
+{
+  echo "$1" | tee -a log.txt
+}
+
 tail -n 1 ../data.csv |
 csvcut -c 1,3,4,5,6 |
 csvformat -T |
 if IFS='	' read listName encodedListName startDate endDate frequency
 then
-  echo "Start Date: $startDate"
-  echo "End Date: $endDate"
-  echo "Frequency: $frequency"
+  rm log.txt # reset log file
+
+  log "Start Date: $startDate"
+  log "End Date: $endDate"
+  log "Frequency: $frequency"
 
   julianStartDay="$(./lib/iso2julian.sh "$startDate")"
   julianEndDay="$(./lib/iso2julian.sh "$endDate")"
@@ -37,11 +45,11 @@ then
   then
     daysOffset=7
   else
-    echo "Unsupported frequency: $frequency"
+    log "Unsupported frequency: $frequency"
     exit 1
   fi
 
-  echo "Julian Day Start: $julianStartDay"
+  log "Julian Day Start: $julianStartDay"
   julianDay="$julianStartDay"
 
   throttle_setMaxEventsPerSecond 8
@@ -88,6 +96,9 @@ EOF
     cp -p ../step2/parse.sh "$folderPath/step2/"
     cp -p outsource-step2-parse.xsl "$folderPath/step2/parse.xsl"
     cp -p outsource-step2-csv.xsl "$folderPath/step2/csv.xsl"
-  done
-  echo "Julian Day End: $julianEndDay"
+
+    "$folderPath/step1/acquire.sh" &&
+    "$folderPath/step2/parse.sh"
+  done 2>&1 | tee -a log.txt
+  log "Julian Day End: $julianEndDay"
 fi
