@@ -6,5 +6,3 @@ then
   exit 1
 fi
 apiKey=$(grep '^Key:' "$apiConfigFile" | cut -d' ' -f2)
-echo "API Key: $apiKey"
-
