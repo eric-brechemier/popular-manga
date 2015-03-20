@@ -5,6 +5,11 @@ cd "$(dirname "$0")"
 . ./url.property.sh
 . ./file.property.sh
 
-wget -O "$file" "$url"
+curl \
+  --silent --show-error \
+  --time-cond "$file" \
+  --remote-time \
+  --output "$file" \
+  "$url"
 
 cp "$file" ..
