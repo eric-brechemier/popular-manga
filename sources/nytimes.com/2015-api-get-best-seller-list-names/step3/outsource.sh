@@ -4,11 +4,18 @@ cd "$(dirname "$0")"
 
 . ./lib/throttle.sh
 
+# Get the number of seconds in current hour,
+# to measure intervals between the first and the last request.
 seconds_in_hour()
 {
   echo "$(date +'%M * 60 + %S' | bc)"
 }
 
+# Compute the difference between two number of seconds in an hour.
+# The second value is expected to be greater than the first, and
+# less than one hour later, which allows to compute the difference
+# across hour boundaries. It is not valid to measure larger intervals
+# that may extend over one hour.
 delta_seconds_in_hour()
 {
   echo "$(( ( $2 - $1 + 3600 ) % 3600 ))"
