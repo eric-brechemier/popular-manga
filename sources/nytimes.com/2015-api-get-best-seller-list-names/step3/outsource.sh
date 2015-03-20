@@ -57,6 +57,7 @@ then
   do
     throttle
 
+    echo
     counter=$(( $counter + 1 ))
     echo "Counter: $counter"
 
