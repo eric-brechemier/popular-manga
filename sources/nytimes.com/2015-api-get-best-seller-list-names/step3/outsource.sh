@@ -49,10 +49,6 @@ then
   startSeconds="$(seconds_in_hour)"
   counter=0
 
-  # TODO: check if the newest published date (in the future) must be skipped;
-  #       in this case, use the while loop with the test below
-  #       instead of the until loop.
-  # while test "$julianDay" -lt "$julianDay"
   until test "$julianDay" -gt "$julianEndDay"
   do
     throttle
