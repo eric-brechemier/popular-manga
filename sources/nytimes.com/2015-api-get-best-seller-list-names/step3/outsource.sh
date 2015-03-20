@@ -83,11 +83,14 @@ then
     mkdir -p "$folderPath/step1"
     mkdir -p "$folderPath/step2"
 
+    url="http://api.nytimes.com/svc/books/v3/lists/$isoDate/$fileName?api-key=[your-key]"
+    echo "URL: $url"
+
     cat << EOF > "$folderPath/meta.txt"
 Attribution: Data provided by The New York Times
 Year: ${isoDate%%-*}
 Title: New York Times' List of $listName Best Sellers ($isoDate)
-URL: http://api.nytimes.com/svc/books/v3/lists/$isoDate/$fileName?api-key=[your-key]
+URL: $url
 Documentation: http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h3-list
 File: $fileName
 EOF
