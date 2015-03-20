@@ -22,9 +22,9 @@ delta_seconds_in_hour()
 }
 
 tail -n 1 ../data.csv |
-csvcut -c 4,5,6 |
+csvcut -c 1,3,4,5,6 |
 csvformat -T |
-if IFS='	' read startDate endDate frequency
+if IFS='	' read listName encodedListName startDate endDate frequency
 then
   echo "Start Date: $startDate"
   echo "End Date: $endDate"
@@ -70,6 +70,28 @@ then
     isoDate="$( ./lib/julian2iso.sh "$julianDay")"
     echo "ISO Date: $isoDate"
     julianDay="$(( $julianDay + $daysOffset ))"
+
+    folderPath="../../$isoDate-$encodedListName-best-seller-list"
+    echo "Folder: $folderPath"
+
+    fileName="$encodedListName.xml"
+
+    mkdir -p "$folderPath/step1"
+    mkdir -p "$folderPath/step2"
+
+    cat << EOF > "$folderPath/meta.txt"
+Attribution: Data provided by The New York Times
+Year: ${isoDate%%-*}
+Title: New York Times' List of $listName Best Sellers ($isoDate)
+URL: http://api.nytimes.com/svc/books/v3/lists/$isoDate/$fileName?api-key=[your-key]
+Documentation: http://developer.nytimes.com/docs/books_api/Books_API_Best_Sellers#h3-list
+File: $fileName
+EOF
+
+    cp -p ../step1/*.sh "$folderPath/step1/"
+    cp -p ../step2/parse.sh "$folderPath/step2/"
+    cp -p outsource-step2-parse.xsl "$folderPath/step2/parse.xsl"
+    cp -p outsource-step2-csv.xsl "$folderPath/step2/csv.xsl"
   done
   echo "Julian Day End: $julianEndDay"
 fi
