@@ -4,5 +4,3 @@ url=$(
   cut -d' ' -f2 |
   sed "s/\[your-key\]/$apiKey/"
 )
-echo "URL: $url"
-
