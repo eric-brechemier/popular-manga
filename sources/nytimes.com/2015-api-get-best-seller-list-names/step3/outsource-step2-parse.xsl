@@ -6,6 +6,12 @@
 
   <xsl:template match="/">
     <!-- print headers -->
+    <xsl:text>List Name</xsl:text>
+    <xsl:value-of select="$COMMA" />
+    <xsl:text>Bestsellers Date</xsl:text>
+    <xsl:value-of select="$COMMA" />
+    <xsl:text>Published Date</xsl:text>
+    <xsl:value-of select="$COMMA" />
     <xsl:text>Rank</xsl:text>
     <xsl:value-of select="$COMMA" />
     <xsl:text>Rank Last Week</xsl:text>
@@ -55,6 +61,13 @@
   </xsl:template>
 
   <xsl:template match="book">
+    <xsl:value-of select="../../list_name" />
+    <xsl:value-of select="$COMMA" />
+    <xsl:value-of select="../../bestsellers_date" />
+    <xsl:value-of select="$COMMA" />
+    <xsl:value-of select="../../published_date" />
+    <xsl:value-of select="$COMMA" />
+
     <xsl:for-each select="*">
       <xsl:apply-templates mode="csv" select="." />
       <xsl:if test="position() &lt; last()">
