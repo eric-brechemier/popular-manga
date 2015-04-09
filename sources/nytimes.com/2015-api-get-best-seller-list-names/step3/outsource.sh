@@ -99,7 +99,7 @@ EOF
     cp -p ../step1/*.sh "$folderPath/step1/"
     cp -p ../step2/parse.sh "$folderPath/step2/"
     cp -p outsource-step2-parse.xsl "$folderPath/step2/parse.xsl"
-    cp -p outsource-step2-csv.xsl "$folderPath/step2/csv.xsl"
+    cp -p ../step2/xml2csv.xsl "$folderPath/step2/xml2csv.xsl"
 
     "$folderPath/step1/acquire.sh" &&
     "$folderPath/step2/parse.sh"

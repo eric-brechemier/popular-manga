@@ -2,79 +2,56 @@
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   version="1.0"
 >
-  <xsl:import href="csv.xsl" />
+
+  <xsl:output method="xml" encoding="UTF-8" />
 
   <xsl:template match="/">
-    <!-- print headers -->
-    <xsl:text>List Name</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Bestsellers Date</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Published Date</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Rank</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Rank Last Week</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Weeks on List</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Asterisk</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Dagger</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Primary ISBN10</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Primary ISBN13</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Publisher</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Description</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Price</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Title</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Author</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Contributor</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Contributor Note</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Book Image</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Amazon Product URL</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Age Group</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Book Review Link</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>First Chapter Link</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Sunday Review Link</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Article Chapter Link</xsl:text>
-    <xsl:value-of select="$NEWLINE" />
+    <file>
+      <header>
+        <name>List Name</name>
+        <name>Bestsellers Date</name>
+        <name>Published Date</name>
+        <name>Rank</name>
+        <name>Rank Last Week</name>
+        <name>Weeks on List</name>
+        <name>Asterisk</name>
+        <name>Dagger</name>
+        <name>Primary ISBN10</name>
+        <name>Primary ISBN13</name>
+        <name>Publisher</name>
+        <name>Description</name>
+        <name>Price</name>
+        <name>Title</name>
+        <name>Author</name>
+        <name>Contributor</name>
+        <name>Contributor Note</name>
+        <name>Book Image</name>
+        <name>Amazon Product URL</name>
+        <name>Age Group</name>
+        <name>Book Review Link</name>
+        <name>First Chapter Link</name>
+        <name>Sunday Review Link</name>
+        <name>Article Chapter Link</name>
+      </header>
 
-    <xsl:apply-templates
-      select="result_set/results/books/book"
-    />
+      <xsl:apply-templates
+        select="result_set/results/books/book"
+      />
+    </file>
   </xsl:template>
 
   <xsl:template match="book">
-    <xsl:value-of select="../../list_name" />
-    <xsl:value-of select="$COMMA" />
-    <xsl:value-of select="../../bestsellers_date" />
-    <xsl:value-of select="$COMMA" />
-    <xsl:value-of select="../../published_date" />
-    <xsl:value-of select="$COMMA" />
+    <record>
+      <field><xsl:value-of select="../../list_name" /></field>
+      <field><xsl:value-of select="../../bestsellers_date" /></field>
+      <field><xsl:value-of select="../../published_date" /></field>
 
-    <xsl:for-each select="*">
-      <xsl:apply-templates mode="csv" select="." />
-      <xsl:if test="position() &lt; last()">
-        <xsl:value-of select="$COMMA" />
-      </xsl:if>
-    </xsl:for-each>
-    <xsl:value-of select="$NEWLINE" />
+      <xsl:for-each select="*">
+        <field>
+          <xsl:value-of select="." />
+        </field>
+      </xsl:for-each>
+    </record>
   </xsl:template>
 
 </xsl:stylesheet>
