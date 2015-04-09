@@ -47,7 +47,7 @@
       <field><xsl:value-of select="../../published_date" /></field>
 
       <xsl:for-each select="*">
-        <xsl:apply-templates mode="field" />
+        <xsl:apply-templates />
       </xsl:for-each>
     </record>
   </xsl:template>
