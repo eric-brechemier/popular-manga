@@ -3,40 +3,33 @@
   version="1.0"
 >
 
-  <xsl:output method="text" encoding="UTF-8" />
-
-  <xsl:variable name="NEWLINE" select="'&#xA;'" />
-  <xsl:variable name="QUOTE">"</xsl:variable>
-  <xsl:variable name="COMMA" select="','" />
+  <xsl:output method="xml" encoding="UTF-8" />
 
   <xsl:template match="/">
-    <!-- print headers -->
-    <xsl:text>List Name</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>List Display Name</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Encoded List Name</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>First Publication Date</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Latest Publication Date</xsl:text>
-    <xsl:value-of select="$COMMA" />
-    <xsl:text>Update Frequency</xsl:text>
-    <xsl:value-of select="$NEWLINE" />
+    <file>
+      <header>
+        <name>List Name</name>
+        <name>List Display Name</name>
+        <name>Encoded List Name</name>
+        <name>First Publication Date</name>
+        <name>Latest Publication Date</name>
+        <name>Update Frequency</name>
+      </header>
 
-    <xsl:apply-templates
-      select="result_set/results/result[list_name = 'Manga']"
-    />
+      <xsl:apply-templates
+        select="result_set/results/result[list_name = 'Manga']"
+      />
+    </file>
   </xsl:template>
 
   <xsl:template match="result">
-    <xsl:for-each select="*">
-      <xsl:value-of select="." />
-      <xsl:if test="position() &lt; last()">
-        <xsl:value-of select="$COMMA" />
-      </xsl:if>
-    </xsl:for-each>
-    <xsl:value-of select="$NEWLINE" />
+    <record>
+      <xsl:for-each select="*">
+        <field>
+          <xsl:value-of select="." />
+        </field>
+      </xsl:for-each>
+    </record>
   </xsl:template>
 
 </xsl:stylesheet>
