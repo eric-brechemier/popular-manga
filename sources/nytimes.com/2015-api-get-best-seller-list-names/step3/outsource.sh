@@ -1,5 +1,6 @@
 #!/bin/sh
 # Requires csvcut, from csvkit (0.9.0)
+# Requires csvformat, from csvkit (0.9.0)
 cd "$(dirname "$0")"
 
 . ./lib/throttle.sh
