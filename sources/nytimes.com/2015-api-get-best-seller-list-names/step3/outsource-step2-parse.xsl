@@ -46,9 +46,7 @@
       <field><xsl:value-of select="../../bestsellers_date" /></field>
       <field><xsl:value-of select="../../published_date" /></field>
 
-      <xsl:for-each select="*">
-        <xsl:apply-templates />
-      </xsl:for-each>
+      <xsl:apply-templates />
     </record>
   </xsl:template>
 
