@@ -46,12 +46,20 @@
       <field><xsl:value-of select="../../bestsellers_date" /></field>
       <field><xsl:value-of select="../../published_date" /></field>
 
-      <xsl:for-each select="*">
-        <field>
-          <xsl:value-of select="." />
-        </field>
-      </xsl:for-each>
+      <xsl:apply-templates />
     </record>
   </xsl:template>
+
+  <xsl:template match="book/*">
+    <field>
+      <xsl:value-of select="." />
+    </field>
+  </xsl:template>
+
+  <!-- ignore (redundant) -->
+  <xsl:template match="book/isbns" />
+
+  <!-- disable copy of text node, done by default -->
+  <xsl:template match="text()" />
 
 </xsl:stylesheet>

@@ -1,5 +1,5 @@
 Start Date: 2009-03-15
-End Date: 2015-03-22
+End Date: 2015-04-12
 Frequency: WEEKLY
 Julian Day Start: 2454906
 
@@ -37,8 +37,8 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 4
-Duration: 2 seconds
-Rate: 1 / second
+Duration: 1 seconds
+Rate: 2 / second
 Julian Day: 2454927
 ISO Date: 2009-04-05
 Folder: ../../2009-04-05-manga-best-seller-list
@@ -48,7 +48,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 5
-Duration: 3 seconds
+Duration: 2 seconds
 Rate: 1 / second
 Julian Day: 2454934
 ISO Date: 2009-04-12
@@ -59,8 +59,8 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 6
-Duration: 4 seconds
-Rate: 1 / second
+Duration: 2 seconds
+Rate: 2 / second
 Julian Day: 2454941
 ISO Date: 2009-04-19
 Folder: ../../2009-04-19-manga-best-seller-list
@@ -70,7 +70,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 7
-Duration: 4 seconds
+Duration: 3 seconds
 Rate: 1 / second
 Julian Day: 2454948
 ISO Date: 2009-04-26
@@ -81,8 +81,8 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 8
-Duration: 5 seconds
-Rate: 1 / second
+Duration: 3 seconds
+Rate: 2 / second
 Julian Day: 2454955
 ISO Date: 2009-05-03
 Folder: ../../2009-05-03-manga-best-seller-list
@@ -92,8 +92,8 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 9
-Duration: 6 seconds
-Rate: 1 / second
+Duration: 3 seconds
+Rate: 2 / second
 Julian Day: 2454962
 ISO Date: 2009-05-10
 Folder: ../../2009-05-10-manga-best-seller-list
@@ -103,8 +103,8 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 10
-Duration: 7 seconds
-Rate: 1 / second
+Duration: 4 seconds
+Rate: 2 / second
 Julian Day: 2454969
 ISO Date: 2009-05-17
 Folder: ../../2009-05-17-manga-best-seller-list
@@ -114,8 +114,8 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 11
-Duration: 7 seconds
-Rate: 1 / second
+Duration: 4 seconds
+Rate: 2 / second
 Julian Day: 2454976
 ISO Date: 2009-05-24
 Folder: ../../2009-05-24-manga-best-seller-list
@@ -125,8 +125,8 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 12
-Duration: 8 seconds
-Rate: 1 / second
+Duration: 5 seconds
+Rate: 2 / second
 Julian Day: 2454983
 ISO Date: 2009-05-31
 Folder: ../../2009-05-31-manga-best-seller-list
@@ -136,7 +136,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 13
-Duration: 9 seconds
+Duration: 6 seconds
 Rate: 1 / second
 Julian Day: 2454990
 ISO Date: 2009-06-07
@@ -147,7 +147,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 14
-Duration: 10 seconds
+Duration: 7 seconds
 Rate: 1 / second
 Julian Day: 2454997
 ISO Date: 2009-06-14
@@ -158,7 +158,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 15
-Duration: 11 seconds
+Duration: 8 seconds
 Rate: 1 / second
 Julian Day: 2455004
 ISO Date: 2009-06-21
@@ -169,7 +169,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 16
-Duration: 12 seconds
+Duration: 8 seconds
 Rate: 1 / second
 Julian Day: 2455011
 ISO Date: 2009-06-28
@@ -180,7 +180,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 17
-Duration: 13 seconds
+Duration: 9 seconds
 Rate: 1 / second
 Julian Day: 2455018
 ISO Date: 2009-07-05
@@ -191,7 +191,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 18
-Duration: 14 seconds
+Duration: 10 seconds
 Rate: 1 / second
 Julian Day: 2455025
 ISO Date: 2009-07-12
@@ -202,7 +202,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 19
-Duration: 15 seconds
+Duration: 10 seconds
 Rate: 1 / second
 Julian Day: 2455032
 ISO Date: 2009-07-19
@@ -213,7 +213,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 20
-Duration: 16 seconds
+Duration: 11 seconds
 Rate: 1 / second
 Julian Day: 2455039
 ISO Date: 2009-07-26
@@ -224,7 +224,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 21
-Duration: 16 seconds
+Duration: 11 seconds
 Rate: 1 / second
 Julian Day: 2455046
 ISO Date: 2009-08-02
@@ -235,7 +235,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 22
-Duration: 17 seconds
+Duration: 12 seconds
 Rate: 1 / second
 Julian Day: 2455053
 ISO Date: 2009-08-09
@@ -246,7 +246,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 23
-Duration: 18 seconds
+Duration: 13 seconds
 Rate: 1 / second
 Julian Day: 2455060
 ISO Date: 2009-08-16
@@ -257,7 +257,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 24
-Duration: 18 seconds
+Duration: 14 seconds
 Rate: 1 / second
 Julian Day: 2455067
 ISO Date: 2009-08-23
@@ -268,7 +268,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 25
-Duration: 20 seconds
+Duration: 15 seconds
 Rate: 1 / second
 Julian Day: 2455074
 ISO Date: 2009-08-30
@@ -279,7 +279,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 26
-Duration: 21 seconds
+Duration: 15 seconds
 Rate: 1 / second
 Julian Day: 2455081
 ISO Date: 2009-09-06
@@ -290,7 +290,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 27
-Duration: 22 seconds
+Duration: 16 seconds
 Rate: 1 / second
 Julian Day: 2455088
 ISO Date: 2009-09-13
@@ -301,7 +301,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 28
-Duration: 23 seconds
+Duration: 17 seconds
 Rate: 1 / second
 Julian Day: 2455095
 ISO Date: 2009-09-20
@@ -312,7 +312,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 29
-Duration: 23 seconds
+Duration: 18 seconds
 Rate: 1 / second
 Julian Day: 2455102
 ISO Date: 2009-09-27
@@ -323,7 +323,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 30
-Duration: 24 seconds
+Duration: 19 seconds
 Rate: 1 / second
 Julian Day: 2455109
 ISO Date: 2009-10-04
@@ -334,7 +334,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 31
-Duration: 25 seconds
+Duration: 19 seconds
 Rate: 1 / second
 Julian Day: 2455116
 ISO Date: 2009-10-11
@@ -345,7 +345,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 32
-Duration: 26 seconds
+Duration: 20 seconds
 Rate: 1 / second
 Julian Day: 2455123
 ISO Date: 2009-10-18
@@ -356,7 +356,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 33
-Duration: 27 seconds
+Duration: 21 seconds
 Rate: 1 / second
 Julian Day: 2455130
 ISO Date: 2009-10-25
@@ -367,7 +367,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 34
-Duration: 27 seconds
+Duration: 22 seconds
 Rate: 1 / second
 Julian Day: 2455137
 ISO Date: 2009-11-01
@@ -378,7 +378,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 35
-Duration: 28 seconds
+Duration: 22 seconds
 Rate: 1 / second
 Julian Day: 2455144
 ISO Date: 2009-11-08
@@ -389,7 +389,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 36
-Duration: 29 seconds
+Duration: 23 seconds
 Rate: 1 / second
 Julian Day: 2455151
 ISO Date: 2009-11-15
@@ -400,7 +400,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 37
-Duration: 30 seconds
+Duration: 24 seconds
 Rate: 1 / second
 Julian Day: 2455158
 ISO Date: 2009-11-22
@@ -411,7 +411,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 38
-Duration: 30 seconds
+Duration: 24 seconds
 Rate: 1 / second
 Julian Day: 2455165
 ISO Date: 2009-11-29
@@ -422,7 +422,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 39
-Duration: 31 seconds
+Duration: 25 seconds
 Rate: 1 / second
 Julian Day: 2455172
 ISO Date: 2009-12-06
@@ -433,7 +433,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 40
-Duration: 32 seconds
+Duration: 26 seconds
 Rate: 1 / second
 Julian Day: 2455179
 ISO Date: 2009-12-13
@@ -444,7 +444,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 41
-Duration: 33 seconds
+Duration: 26 seconds
 Rate: 1 / second
 Julian Day: 2455186
 ISO Date: 2009-12-20
@@ -455,7 +455,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 42
-Duration: 34 seconds
+Duration: 27 seconds
 Rate: 1 / second
 Julian Day: 2455193
 ISO Date: 2009-12-27
@@ -466,7 +466,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 43
-Duration: 34 seconds
+Duration: 28 seconds
 Rate: 1 / second
 Julian Day: 2455200
 ISO Date: 2010-01-03
@@ -477,7 +477,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 44
-Duration: 35 seconds
+Duration: 29 seconds
 Rate: 1 / second
 Julian Day: 2455207
 ISO Date: 2010-01-10
@@ -488,7 +488,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 45
-Duration: 36 seconds
+Duration: 30 seconds
 Rate: 1 / second
 Julian Day: 2455214
 ISO Date: 2010-01-17
@@ -499,7 +499,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 46
-Duration: 37 seconds
+Duration: 31 seconds
 Rate: 1 / second
 Julian Day: 2455221
 ISO Date: 2010-01-24
@@ -510,7 +510,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 47
-Duration: 38 seconds
+Duration: 32 seconds
 Rate: 1 / second
 Julian Day: 2455228
 ISO Date: 2010-01-31
@@ -521,7 +521,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 48
-Duration: 39 seconds
+Duration: 32 seconds
 Rate: 1 / second
 Julian Day: 2455235
 ISO Date: 2010-02-07
@@ -532,7 +532,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 49
-Duration: 39 seconds
+Duration: 33 seconds
 Rate: 1 / second
 Julian Day: 2455242
 ISO Date: 2010-02-14
@@ -543,7 +543,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 50
-Duration: 40 seconds
+Duration: 34 seconds
 Rate: 1 / second
 Julian Day: 2455249
 ISO Date: 2010-02-21
@@ -554,7 +554,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 51
-Duration: 41 seconds
+Duration: 34 seconds
 Rate: 1 / second
 Julian Day: 2455256
 ISO Date: 2010-02-28
@@ -565,7 +565,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 52
-Duration: 42 seconds
+Duration: 35 seconds
 Rate: 1 / second
 Julian Day: 2455263
 ISO Date: 2010-03-07
@@ -576,7 +576,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 53
-Duration: 42 seconds
+Duration: 36 seconds
 Rate: 1 / second
 Julian Day: 2455270
 ISO Date: 2010-03-14
@@ -587,7 +587,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 54
-Duration: 43 seconds
+Duration: 37 seconds
 Rate: 1 / second
 Julian Day: 2455277
 ISO Date: 2010-03-21
@@ -598,7 +598,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 55
-Duration: 44 seconds
+Duration: 37 seconds
 Rate: 1 / second
 Julian Day: 2455284
 ISO Date: 2010-03-28
@@ -609,7 +609,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 56
-Duration: 45 seconds
+Duration: 38 seconds
 Rate: 1 / second
 Julian Day: 2455291
 ISO Date: 2010-04-04
@@ -620,7 +620,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 57
-Duration: 46 seconds
+Duration: 39 seconds
 Rate: 1 / second
 Julian Day: 2455298
 ISO Date: 2010-04-11
@@ -631,7 +631,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 58
-Duration: 46 seconds
+Duration: 39 seconds
 Rate: 1 / second
 Julian Day: 2455305
 ISO Date: 2010-04-18
@@ -642,7 +642,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 59
-Duration: 47 seconds
+Duration: 40 seconds
 Rate: 1 / second
 Julian Day: 2455312
 ISO Date: 2010-04-25
@@ -653,7 +653,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 60
-Duration: 48 seconds
+Duration: 41 seconds
 Rate: 1 / second
 Julian Day: 2455319
 ISO Date: 2010-05-02
@@ -664,7 +664,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 61
-Duration: 49 seconds
+Duration: 41 seconds
 Rate: 1 / second
 Julian Day: 2455326
 ISO Date: 2010-05-09
@@ -675,7 +675,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 62
-Duration: 50 seconds
+Duration: 43 seconds
 Rate: 1 / second
 Julian Day: 2455333
 ISO Date: 2010-05-16
@@ -686,7 +686,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 63
-Duration: 51 seconds
+Duration: 44 seconds
 Rate: 1 / second
 Julian Day: 2455340
 ISO Date: 2010-05-23
@@ -697,7 +697,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 64
-Duration: 52 seconds
+Duration: 44 seconds
 Rate: 1 / second
 Julian Day: 2455347
 ISO Date: 2010-05-30
@@ -708,7 +708,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 65
-Duration: 53 seconds
+Duration: 45 seconds
 Rate: 1 / second
 Julian Day: 2455354
 ISO Date: 2010-06-06
@@ -719,7 +719,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 66
-Duration: 54 seconds
+Duration: 45 seconds
 Rate: 1 / second
 Julian Day: 2455361
 ISO Date: 2010-06-13
@@ -730,7 +730,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 67
-Duration: 55 seconds
+Duration: 46 seconds
 Rate: 1 / second
 Julian Day: 2455368
 ISO Date: 2010-06-20
@@ -741,7 +741,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 68
-Duration: 55 seconds
+Duration: 46 seconds
 Rate: 1 / second
 Julian Day: 2455375
 ISO Date: 2010-06-27
@@ -752,7 +752,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 69
-Duration: 56 seconds
+Duration: 48 seconds
 Rate: 1 / second
 Julian Day: 2455382
 ISO Date: 2010-07-04
@@ -763,7 +763,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 70
-Duration: 56 seconds
+Duration: 48 seconds
 Rate: 1 / second
 Julian Day: 2455389
 ISO Date: 2010-07-11
@@ -774,7 +774,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 71
-Duration: 57 seconds
+Duration: 49 seconds
 Rate: 1 / second
 Julian Day: 2455396
 ISO Date: 2010-07-18
@@ -785,7 +785,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 72
-Duration: 58 seconds
+Duration: 50 seconds
 Rate: 1 / second
 Julian Day: 2455403
 ISO Date: 2010-07-25
@@ -796,7 +796,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 73
-Duration: 59 seconds
+Duration: 50 seconds
 Rate: 1 / second
 Julian Day: 2455410
 ISO Date: 2010-08-01
@@ -807,7 +807,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 74
-Duration: 60 seconds
+Duration: 51 seconds
 Rate: 1 / second
 Julian Day: 2455417
 ISO Date: 2010-08-08
@@ -818,7 +818,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 75
-Duration: 61 seconds
+Duration: 52 seconds
 Rate: 1 / second
 Julian Day: 2455424
 ISO Date: 2010-08-15
@@ -829,7 +829,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 76
-Duration: 61 seconds
+Duration: 53 seconds
 Rate: 1 / second
 Julian Day: 2455431
 ISO Date: 2010-08-22
@@ -840,7 +840,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 77
-Duration: 62 seconds
+Duration: 54 seconds
 Rate: 1 / second
 Julian Day: 2455438
 ISO Date: 2010-08-29
@@ -851,7 +851,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 78
-Duration: 63 seconds
+Duration: 55 seconds
 Rate: 1 / second
 Julian Day: 2455445
 ISO Date: 2010-09-05
@@ -862,7 +862,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 79
-Duration: 64 seconds
+Duration: 55 seconds
 Rate: 1 / second
 Julian Day: 2455452
 ISO Date: 2010-09-12
@@ -873,7 +873,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 80
-Duration: 65 seconds
+Duration: 55 seconds
 Rate: 1 / second
 Julian Day: 2455459
 ISO Date: 2010-09-19
@@ -884,7 +884,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 81
-Duration: 65 seconds
+Duration: 56 seconds
 Rate: 1 / second
 Julian Day: 2455466
 ISO Date: 2010-09-26
@@ -895,7 +895,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 82
-Duration: 66 seconds
+Duration: 57 seconds
 Rate: 1 / second
 Julian Day: 2455473
 ISO Date: 2010-10-03
@@ -906,7 +906,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 83
-Duration: 67 seconds
+Duration: 57 seconds
 Rate: 1 / second
 Julian Day: 2455480
 ISO Date: 2010-10-10
@@ -917,7 +917,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 84
-Duration: 68 seconds
+Duration: 57 seconds
 Rate: 1 / second
 Julian Day: 2455487
 ISO Date: 2010-10-17
@@ -928,7 +928,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 85
-Duration: 68 seconds
+Duration: 58 seconds
 Rate: 1 / second
 Julian Day: 2455494
 ISO Date: 2010-10-24
@@ -939,7 +939,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 86
-Duration: 69 seconds
+Duration: 59 seconds
 Rate: 1 / second
 Julian Day: 2455501
 ISO Date: 2010-10-31
@@ -950,7 +950,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 87
-Duration: 70 seconds
+Duration: 60 seconds
 Rate: 1 / second
 Julian Day: 2455508
 ISO Date: 2010-11-07
@@ -961,7 +961,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 88
-Duration: 71 seconds
+Duration: 61 seconds
 Rate: 1 / second
 Julian Day: 2455515
 ISO Date: 2010-11-14
@@ -972,7 +972,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 89
-Duration: 71 seconds
+Duration: 62 seconds
 Rate: 1 / second
 Julian Day: 2455522
 ISO Date: 2010-11-21
@@ -983,7 +983,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 90
-Duration: 72 seconds
+Duration: 63 seconds
 Rate: 1 / second
 Julian Day: 2455529
 ISO Date: 2010-11-28
@@ -994,7 +994,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 91
-Duration: 73 seconds
+Duration: 64 seconds
 Rate: 1 / second
 Julian Day: 2455536
 ISO Date: 2010-12-05
@@ -1005,7 +1005,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 92
-Duration: 74 seconds
+Duration: 65 seconds
 Rate: 1 / second
 Julian Day: 2455543
 ISO Date: 2010-12-12
@@ -1016,7 +1016,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 93
-Duration: 74 seconds
+Duration: 66 seconds
 Rate: 1 / second
 Julian Day: 2455550
 ISO Date: 2010-12-19
@@ -1027,7 +1027,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 94
-Duration: 75 seconds
+Duration: 66 seconds
 Rate: 1 / second
 Julian Day: 2455557
 ISO Date: 2010-12-26
@@ -1038,7 +1038,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 95
-Duration: 76 seconds
+Duration: 67 seconds
 Rate: 1 / second
 Julian Day: 2455564
 ISO Date: 2011-01-02
@@ -1049,7 +1049,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 96
-Duration: 76 seconds
+Duration: 68 seconds
 Rate: 1 / second
 Julian Day: 2455571
 ISO Date: 2011-01-09
@@ -1060,7 +1060,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 97
-Duration: 77 seconds
+Duration: 68 seconds
 Rate: 1 / second
 Julian Day: 2455578
 ISO Date: 2011-01-16
@@ -1071,7 +1071,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 98
-Duration: 78 seconds
+Duration: 69 seconds
 Rate: 1 / second
 Julian Day: 2455585
 ISO Date: 2011-01-23
@@ -1082,7 +1082,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 99
-Duration: 79 seconds
+Duration: 70 seconds
 Rate: 1 / second
 Julian Day: 2455592
 ISO Date: 2011-01-30
@@ -1093,7 +1093,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 100
-Duration: 80 seconds
+Duration: 70 seconds
 Rate: 1 / second
 Julian Day: 2455599
 ISO Date: 2011-02-06
@@ -1104,7 +1104,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 101
-Duration: 80 seconds
+Duration: 71 seconds
 Rate: 1 / second
 Julian Day: 2455606
 ISO Date: 2011-02-13
@@ -1115,7 +1115,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 102
-Duration: 81 seconds
+Duration: 71 seconds
 Rate: 1 / second
 Julian Day: 2455613
 ISO Date: 2011-02-20
@@ -1126,7 +1126,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 103
-Duration: 81 seconds
+Duration: 73 seconds
 Rate: 1 / second
 Julian Day: 2455620
 ISO Date: 2011-02-27
@@ -1137,7 +1137,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 104
-Duration: 82 seconds
+Duration: 73 seconds
 Rate: 1 / second
 Julian Day: 2455627
 ISO Date: 2011-03-06
@@ -1148,7 +1148,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 105
-Duration: 83 seconds
+Duration: 74 seconds
 Rate: 1 / second
 Julian Day: 2455634
 ISO Date: 2011-03-13
@@ -1159,7 +1159,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 106
-Duration: 84 seconds
+Duration: 74 seconds
 Rate: 1 / second
 Julian Day: 2455641
 ISO Date: 2011-03-20
@@ -1170,7 +1170,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 107
-Duration: 84 seconds
+Duration: 75 seconds
 Rate: 1 / second
 Julian Day: 2455648
 ISO Date: 2011-03-27
@@ -1181,7 +1181,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 108
-Duration: 85 seconds
+Duration: 75 seconds
 Rate: 1 / second
 Julian Day: 2455655
 ISO Date: 2011-04-03
@@ -1192,7 +1192,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 109
-Duration: 87 seconds
+Duration: 76 seconds
 Rate: 1 / second
 Julian Day: 2455662
 ISO Date: 2011-04-10
@@ -1203,7 +1203,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 110
-Duration: 87 seconds
+Duration: 76 seconds
 Rate: 1 / second
 Julian Day: 2455669
 ISO Date: 2011-04-17
@@ -1214,7 +1214,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 111
-Duration: 88 seconds
+Duration: 77 seconds
 Rate: 1 / second
 Julian Day: 2455676
 ISO Date: 2011-04-24
@@ -1225,7 +1225,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 112
-Duration: 89 seconds
+Duration: 78 seconds
 Rate: 1 / second
 Julian Day: 2455683
 ISO Date: 2011-05-01
@@ -1236,7 +1236,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 113
-Duration: 90 seconds
+Duration: 78 seconds
 Rate: 1 / second
 Julian Day: 2455690
 ISO Date: 2011-05-08
@@ -1247,7 +1247,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 114
-Duration: 91 seconds
+Duration: 79 seconds
 Rate: 1 / second
 Julian Day: 2455697
 ISO Date: 2011-05-15
@@ -1258,7 +1258,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 115
-Duration: 91 seconds
+Duration: 80 seconds
 Rate: 1 / second
 Julian Day: 2455704
 ISO Date: 2011-05-22
@@ -1269,7 +1269,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 116
-Duration: 92 seconds
+Duration: 81 seconds
 Rate: 1 / second
 Julian Day: 2455711
 ISO Date: 2011-05-29
@@ -1280,7 +1280,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 117
-Duration: 93 seconds
+Duration: 81 seconds
 Rate: 1 / second
 Julian Day: 2455718
 ISO Date: 2011-06-05
@@ -1291,7 +1291,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 118
-Duration: 94 seconds
+Duration: 82 seconds
 Rate: 1 / second
 Julian Day: 2455725
 ISO Date: 2011-06-12
@@ -1302,7 +1302,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 119
-Duration: 95 seconds
+Duration: 83 seconds
 Rate: 1 / second
 Julian Day: 2455732
 ISO Date: 2011-06-19
@@ -1313,7 +1313,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 120
-Duration: 96 seconds
+Duration: 83 seconds
 Rate: 1 / second
 Julian Day: 2455739
 ISO Date: 2011-06-26
@@ -1324,7 +1324,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 121
-Duration: 96 seconds
+Duration: 84 seconds
 Rate: 1 / second
 Julian Day: 2455746
 ISO Date: 2011-07-03
@@ -1335,7 +1335,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 122
-Duration: 97 seconds
+Duration: 84 seconds
 Rate: 1 / second
 Julian Day: 2455753
 ISO Date: 2011-07-10
@@ -1346,7 +1346,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 123
-Duration: 98 seconds
+Duration: 85 seconds
 Rate: 1 / second
 Julian Day: 2455760
 ISO Date: 2011-07-17
@@ -1357,7 +1357,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 124
-Duration: 98 seconds
+Duration: 86 seconds
 Rate: 1 / second
 Julian Day: 2455767
 ISO Date: 2011-07-24
@@ -1368,7 +1368,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 125
-Duration: 99 seconds
+Duration: 87 seconds
 Rate: 1 / second
 Julian Day: 2455774
 ISO Date: 2011-07-31
@@ -1379,7 +1379,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 126
-Duration: 100 seconds
+Duration: 87 seconds
 Rate: 1 / second
 Julian Day: 2455781
 ISO Date: 2011-08-07
@@ -1390,7 +1390,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 127
-Duration: 101 seconds
+Duration: 88 seconds
 Rate: 1 / second
 Julian Day: 2455788
 ISO Date: 2011-08-14
@@ -1401,7 +1401,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 128
-Duration: 102 seconds
+Duration: 88 seconds
 Rate: 1 / second
 Julian Day: 2455795
 ISO Date: 2011-08-21
@@ -1412,7 +1412,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 129
-Duration: 103 seconds
+Duration: 89 seconds
 Rate: 1 / second
 Julian Day: 2455802
 ISO Date: 2011-08-28
@@ -1423,7 +1423,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 130
-Duration: 104 seconds
+Duration: 89 seconds
 Rate: 1 / second
 Julian Day: 2455809
 ISO Date: 2011-09-04
@@ -1434,7 +1434,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 131
-Duration: 105 seconds
+Duration: 90 seconds
 Rate: 1 / second
 Julian Day: 2455816
 ISO Date: 2011-09-11
@@ -1445,7 +1445,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 132
-Duration: 106 seconds
+Duration: 90 seconds
 Rate: 1 / second
 Julian Day: 2455823
 ISO Date: 2011-09-18
@@ -1456,7 +1456,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 133
-Duration: 107 seconds
+Duration: 91 seconds
 Rate: 1 / second
 Julian Day: 2455830
 ISO Date: 2011-09-25
@@ -1467,7 +1467,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 134
-Duration: 107 seconds
+Duration: 91 seconds
 Rate: 1 / second
 Julian Day: 2455837
 ISO Date: 2011-10-02
@@ -1478,7 +1478,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 135
-Duration: 108 seconds
+Duration: 92 seconds
 Rate: 1 / second
 Julian Day: 2455844
 ISO Date: 2011-10-09
@@ -1489,7 +1489,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 136
-Duration: 108 seconds
+Duration: 93 seconds
 Rate: 1 / second
 Julian Day: 2455851
 ISO Date: 2011-10-16
@@ -1500,7 +1500,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 137
-Duration: 109 seconds
+Duration: 94 seconds
 Rate: 1 / second
 Julian Day: 2455858
 ISO Date: 2011-10-23
@@ -1511,7 +1511,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 138
-Duration: 110 seconds
+Duration: 95 seconds
 Rate: 1 / second
 Julian Day: 2455865
 ISO Date: 2011-10-30
@@ -1522,7 +1522,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 139
-Duration: 111 seconds
+Duration: 96 seconds
 Rate: 1 / second
 Julian Day: 2455872
 ISO Date: 2011-11-06
@@ -1533,7 +1533,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 140
-Duration: 111 seconds
+Duration: 97 seconds
 Rate: 1 / second
 Julian Day: 2455879
 ISO Date: 2011-11-13
@@ -1544,7 +1544,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 141
-Duration: 112 seconds
+Duration: 98 seconds
 Rate: 1 / second
 Julian Day: 2455886
 ISO Date: 2011-11-20
@@ -1555,7 +1555,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 142
-Duration: 113 seconds
+Duration: 99 seconds
 Rate: 1 / second
 Julian Day: 2455893
 ISO Date: 2011-11-27
@@ -1566,7 +1566,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 143
-Duration: 114 seconds
+Duration: 100 seconds
 Rate: 1 / second
 Julian Day: 2455900
 ISO Date: 2011-12-04
@@ -1577,7 +1577,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 144
-Duration: 115 seconds
+Duration: 100 seconds
 Rate: 1 / second
 Julian Day: 2455907
 ISO Date: 2011-12-11
@@ -1588,7 +1588,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 145
-Duration: 116 seconds
+Duration: 101 seconds
 Rate: 1 / second
 Julian Day: 2455914
 ISO Date: 2011-12-18
@@ -1599,7 +1599,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 146
-Duration: 117 seconds
+Duration: 102 seconds
 Rate: 1 / second
 Julian Day: 2455921
 ISO Date: 2011-12-25
@@ -1610,7 +1610,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 147
-Duration: 117 seconds
+Duration: 103 seconds
 Rate: 1 / second
 Julian Day: 2455928
 ISO Date: 2012-01-01
@@ -1621,7 +1621,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 148
-Duration: 118 seconds
+Duration: 103 seconds
 Rate: 1 / second
 Julian Day: 2455935
 ISO Date: 2012-01-08
@@ -1632,7 +1632,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 149
-Duration: 119 seconds
+Duration: 104 seconds
 Rate: 1 / second
 Julian Day: 2455942
 ISO Date: 2012-01-15
@@ -1643,7 +1643,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 150
-Duration: 119 seconds
+Duration: 104 seconds
 Rate: 1 / second
 Julian Day: 2455949
 ISO Date: 2012-01-22
@@ -1654,7 +1654,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 151
-Duration: 120 seconds
+Duration: 105 seconds
 Rate: 1 / second
 Julian Day: 2455956
 ISO Date: 2012-01-29
@@ -1665,7 +1665,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 152
-Duration: 121 seconds
+Duration: 106 seconds
 Rate: 1 / second
 Julian Day: 2455963
 ISO Date: 2012-02-05
@@ -1676,7 +1676,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 153
-Duration: 121 seconds
+Duration: 106 seconds
 Rate: 1 / second
 Julian Day: 2455970
 ISO Date: 2012-02-12
@@ -1687,7 +1687,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 154
-Duration: 122 seconds
+Duration: 107 seconds
 Rate: 1 / second
 Julian Day: 2455977
 ISO Date: 2012-02-19
@@ -1698,7 +1698,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 155
-Duration: 123 seconds
+Duration: 108 seconds
 Rate: 1 / second
 Julian Day: 2455984
 ISO Date: 2012-02-26
@@ -1709,7 +1709,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 156
-Duration: 124 seconds
+Duration: 108 seconds
 Rate: 1 / second
 Julian Day: 2455991
 ISO Date: 2012-03-04
@@ -1720,7 +1720,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 157
-Duration: 125 seconds
+Duration: 109 seconds
 Rate: 1 / second
 Julian Day: 2455998
 ISO Date: 2012-03-11
@@ -1731,7 +1731,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 158
-Duration: 126 seconds
+Duration: 110 seconds
 Rate: 1 / second
 Julian Day: 2456005
 ISO Date: 2012-03-18
@@ -1742,7 +1742,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 159
-Duration: 126 seconds
+Duration: 111 seconds
 Rate: 1 / second
 Julian Day: 2456012
 ISO Date: 2012-03-25
@@ -1753,7 +1753,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 160
-Duration: 127 seconds
+Duration: 112 seconds
 Rate: 1 / second
 Julian Day: 2456019
 ISO Date: 2012-04-01
@@ -1764,7 +1764,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 161
-Duration: 127 seconds
+Duration: 113 seconds
 Rate: 1 / second
 Julian Day: 2456026
 ISO Date: 2012-04-08
@@ -1775,7 +1775,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 162
-Duration: 128 seconds
+Duration: 113 seconds
 Rate: 1 / second
 Julian Day: 2456033
 ISO Date: 2012-04-15
@@ -1786,7 +1786,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 163
-Duration: 129 seconds
+Duration: 114 seconds
 Rate: 1 / second
 Julian Day: 2456040
 ISO Date: 2012-04-22
@@ -1797,7 +1797,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 164
-Duration: 130 seconds
+Duration: 114 seconds
 Rate: 1 / second
 Julian Day: 2456047
 ISO Date: 2012-04-29
@@ -1808,7 +1808,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 165
-Duration: 130 seconds
+Duration: 115 seconds
 Rate: 1 / second
 Julian Day: 2456054
 ISO Date: 2012-05-06
@@ -1819,7 +1819,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 166
-Duration: 131 seconds
+Duration: 116 seconds
 Rate: 1 / second
 Julian Day: 2456061
 ISO Date: 2012-05-13
@@ -1830,7 +1830,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 167
-Duration: 132 seconds
+Duration: 116 seconds
 Rate: 1 / second
 Julian Day: 2456068
 ISO Date: 2012-05-20
@@ -1841,7 +1841,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 168
-Duration: 133 seconds
+Duration: 117 seconds
 Rate: 1 / second
 Julian Day: 2456075
 ISO Date: 2012-05-27
@@ -1852,7 +1852,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 169
-Duration: 134 seconds
+Duration: 118 seconds
 Rate: 1 / second
 Julian Day: 2456082
 ISO Date: 2012-06-03
@@ -1863,7 +1863,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 170
-Duration: 134 seconds
+Duration: 118 seconds
 Rate: 1 / second
 Julian Day: 2456089
 ISO Date: 2012-06-10
@@ -1874,7 +1874,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 171
-Duration: 135 seconds
+Duration: 119 seconds
 Rate: 1 / second
 Julian Day: 2456096
 ISO Date: 2012-06-17
@@ -1885,7 +1885,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 172
-Duration: 136 seconds
+Duration: 120 seconds
 Rate: 1 / second
 Julian Day: 2456103
 ISO Date: 2012-06-24
@@ -1896,7 +1896,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 173
-Duration: 137 seconds
+Duration: 120 seconds
 Rate: 1 / second
 Julian Day: 2456110
 ISO Date: 2012-07-01
@@ -1907,7 +1907,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 174
-Duration: 138 seconds
+Duration: 121 seconds
 Rate: 1 / second
 Julian Day: 2456117
 ISO Date: 2012-07-08
@@ -1918,7 +1918,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 175
-Duration: 139 seconds
+Duration: 122 seconds
 Rate: 1 / second
 Julian Day: 2456124
 ISO Date: 2012-07-15
@@ -1929,7 +1929,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 176
-Duration: 139 seconds
+Duration: 122 seconds
 Rate: 1 / second
 Julian Day: 2456131
 ISO Date: 2012-07-22
@@ -1940,7 +1940,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 177
-Duration: 140 seconds
+Duration: 123 seconds
 Rate: 1 / second
 Julian Day: 2456138
 ISO Date: 2012-07-29
@@ -1951,7 +1951,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 178
-Duration: 140 seconds
+Duration: 123 seconds
 Rate: 1 / second
 Julian Day: 2456145
 ISO Date: 2012-08-05
@@ -1962,7 +1962,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 179
-Duration: 141 seconds
+Duration: 124 seconds
 Rate: 1 / second
 Julian Day: 2456152
 ISO Date: 2012-08-12
@@ -1973,7 +1973,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 180
-Duration: 141 seconds
+Duration: 124 seconds
 Rate: 1 / second
 Julian Day: 2456159
 ISO Date: 2012-08-19
@@ -1984,7 +1984,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 181
-Duration: 142 seconds
+Duration: 125 seconds
 Rate: 1 / second
 Julian Day: 2456166
 ISO Date: 2012-08-26
@@ -1995,7 +1995,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 182
-Duration: 143 seconds
+Duration: 126 seconds
 Rate: 1 / second
 Julian Day: 2456173
 ISO Date: 2012-09-02
@@ -2006,7 +2006,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 183
-Duration: 143 seconds
+Duration: 127 seconds
 Rate: 1 / second
 Julian Day: 2456180
 ISO Date: 2012-09-09
@@ -2017,7 +2017,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 184
-Duration: 144 seconds
+Duration: 127 seconds
 Rate: 1 / second
 Julian Day: 2456187
 ISO Date: 2012-09-16
@@ -2028,7 +2028,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 185
-Duration: 145 seconds
+Duration: 128 seconds
 Rate: 1 / second
 Julian Day: 2456194
 ISO Date: 2012-09-23
@@ -2039,7 +2039,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 186
-Duration: 146 seconds
+Duration: 129 seconds
 Rate: 1 / second
 Julian Day: 2456201
 ISO Date: 2012-09-30
@@ -2050,7 +2050,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 187
-Duration: 147 seconds
+Duration: 130 seconds
 Rate: 1 / second
 Julian Day: 2456208
 ISO Date: 2012-10-07
@@ -2061,7 +2061,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 188
-Duration: 147 seconds
+Duration: 131 seconds
 Rate: 1 / second
 Julian Day: 2456215
 ISO Date: 2012-10-14
@@ -2072,7 +2072,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 189
-Duration: 148 seconds
+Duration: 132 seconds
 Rate: 1 / second
 Julian Day: 2456222
 ISO Date: 2012-10-21
@@ -2083,7 +2083,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 190
-Duration: 149 seconds
+Duration: 132 seconds
 Rate: 1 / second
 Julian Day: 2456229
 ISO Date: 2012-10-28
@@ -2094,7 +2094,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 191
-Duration: 149 seconds
+Duration: 133 seconds
 Rate: 1 / second
 Julian Day: 2456236
 ISO Date: 2012-11-04
@@ -2105,7 +2105,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 192
-Duration: 150 seconds
+Duration: 134 seconds
 Rate: 1 / second
 Julian Day: 2456243
 ISO Date: 2012-11-11
@@ -2116,7 +2116,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 193
-Duration: 151 seconds
+Duration: 134 seconds
 Rate: 1 / second
 Julian Day: 2456250
 ISO Date: 2012-11-18
@@ -2127,7 +2127,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 194
-Duration: 152 seconds
+Duration: 135 seconds
 Rate: 1 / second
 Julian Day: 2456257
 ISO Date: 2012-11-25
@@ -2138,7 +2138,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 195
-Duration: 152 seconds
+Duration: 136 seconds
 Rate: 1 / second
 Julian Day: 2456264
 ISO Date: 2012-12-02
@@ -2149,7 +2149,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 196
-Duration: 153 seconds
+Duration: 136 seconds
 Rate: 1 / second
 Julian Day: 2456271
 ISO Date: 2012-12-09
@@ -2160,7 +2160,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 197
-Duration: 154 seconds
+Duration: 137 seconds
 Rate: 1 / second
 Julian Day: 2456278
 ISO Date: 2012-12-16
@@ -2171,7 +2171,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 198
-Duration: 155 seconds
+Duration: 138 seconds
 Rate: 1 / second
 Julian Day: 2456285
 ISO Date: 2012-12-23
@@ -2182,7 +2182,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 199
-Duration: 156 seconds
+Duration: 138 seconds
 Rate: 1 / second
 Julian Day: 2456292
 ISO Date: 2012-12-30
@@ -2193,7 +2193,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 200
-Duration: 156 seconds
+Duration: 139 seconds
 Rate: 1 / second
 Julian Day: 2456299
 ISO Date: 2013-01-06
@@ -2204,7 +2204,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 201
-Duration: 157 seconds
+Duration: 140 seconds
 Rate: 1 / second
 Julian Day: 2456306
 ISO Date: 2013-01-13
@@ -2215,7 +2215,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 202
-Duration: 158 seconds
+Duration: 140 seconds
 Rate: 1 / second
 Julian Day: 2456313
 ISO Date: 2013-01-20
@@ -2226,7 +2226,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 203
-Duration: 159 seconds
+Duration: 140 seconds
 Rate: 1 / second
 Julian Day: 2456320
 ISO Date: 2013-01-27
@@ -2237,7 +2237,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 204
-Duration: 159 seconds
+Duration: 141 seconds
 Rate: 1 / second
 Julian Day: 2456327
 ISO Date: 2013-02-03
@@ -2248,7 +2248,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 205
-Duration: 160 seconds
+Duration: 141 seconds
 Rate: 1 / second
 Julian Day: 2456334
 ISO Date: 2013-02-10
@@ -2259,7 +2259,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 206
-Duration: 161 seconds
+Duration: 142 seconds
 Rate: 1 / second
 Julian Day: 2456341
 ISO Date: 2013-02-17
@@ -2270,7 +2270,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 207
-Duration: 162 seconds
+Duration: 143 seconds
 Rate: 1 / second
 Julian Day: 2456348
 ISO Date: 2013-02-24
@@ -2281,7 +2281,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 208
-Duration: 163 seconds
+Duration: 144 seconds
 Rate: 1 / second
 Julian Day: 2456355
 ISO Date: 2013-03-03
@@ -2292,7 +2292,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 209
-Duration: 163 seconds
+Duration: 145 seconds
 Rate: 1 / second
 Julian Day: 2456362
 ISO Date: 2013-03-10
@@ -2303,7 +2303,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 210
-Duration: 164 seconds
+Duration: 145 seconds
 Rate: 1 / second
 Julian Day: 2456369
 ISO Date: 2013-03-17
@@ -2314,7 +2314,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 211
-Duration: 165 seconds
+Duration: 146 seconds
 Rate: 1 / second
 Julian Day: 2456376
 ISO Date: 2013-03-24
@@ -2325,7 +2325,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 212
-Duration: 166 seconds
+Duration: 147 seconds
 Rate: 1 / second
 Julian Day: 2456383
 ISO Date: 2013-03-31
@@ -2336,7 +2336,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 213
-Duration: 166 seconds
+Duration: 148 seconds
 Rate: 1 / second
 Julian Day: 2456390
 ISO Date: 2013-04-07
@@ -2347,7 +2347,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 214
-Duration: 167 seconds
+Duration: 149 seconds
 Rate: 1 / second
 Julian Day: 2456397
 ISO Date: 2013-04-14
@@ -2358,7 +2358,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 215
-Duration: 168 seconds
+Duration: 149 seconds
 Rate: 1 / second
 Julian Day: 2456404
 ISO Date: 2013-04-21
@@ -2369,7 +2369,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 216
-Duration: 169 seconds
+Duration: 150 seconds
 Rate: 1 / second
 Julian Day: 2456411
 ISO Date: 2013-04-28
@@ -2380,7 +2380,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 217
-Duration: 169 seconds
+Duration: 151 seconds
 Rate: 1 / second
 Julian Day: 2456418
 ISO Date: 2013-05-05
@@ -2391,7 +2391,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 218
-Duration: 171 seconds
+Duration: 151 seconds
 Rate: 1 / second
 Julian Day: 2456425
 ISO Date: 2013-05-12
@@ -2402,7 +2402,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 219
-Duration: 171 seconds
+Duration: 152 seconds
 Rate: 1 / second
 Julian Day: 2456432
 ISO Date: 2013-05-19
@@ -2413,7 +2413,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 220
-Duration: 172 seconds
+Duration: 153 seconds
 Rate: 1 / second
 Julian Day: 2456439
 ISO Date: 2013-05-26
@@ -2424,7 +2424,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 221
-Duration: 172 seconds
+Duration: 153 seconds
 Rate: 1 / second
 Julian Day: 2456446
 ISO Date: 2013-06-02
@@ -2435,7 +2435,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 222
-Duration: 173 seconds
+Duration: 154 seconds
 Rate: 1 / second
 Julian Day: 2456453
 ISO Date: 2013-06-09
@@ -2446,7 +2446,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 223
-Duration: 174 seconds
+Duration: 154 seconds
 Rate: 1 / second
 Julian Day: 2456460
 ISO Date: 2013-06-16
@@ -2457,7 +2457,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 224
-Duration: 175 seconds
+Duration: 155 seconds
 Rate: 1 / second
 Julian Day: 2456467
 ISO Date: 2013-06-23
@@ -2468,7 +2468,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 225
-Duration: 176 seconds
+Duration: 156 seconds
 Rate: 1 / second
 Julian Day: 2456474
 ISO Date: 2013-06-30
@@ -2479,7 +2479,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 226
-Duration: 176 seconds
+Duration: 157 seconds
 Rate: 1 / second
 Julian Day: 2456481
 ISO Date: 2013-07-07
@@ -2490,7 +2490,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 227
-Duration: 177 seconds
+Duration: 158 seconds
 Rate: 1 / second
 Julian Day: 2456488
 ISO Date: 2013-07-14
@@ -2501,7 +2501,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 228
-Duration: 178 seconds
+Duration: 158 seconds
 Rate: 1 / second
 Julian Day: 2456495
 ISO Date: 2013-07-21
@@ -2512,7 +2512,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 229
-Duration: 179 seconds
+Duration: 159 seconds
 Rate: 1 / second
 Julian Day: 2456502
 ISO Date: 2013-07-28
@@ -2523,7 +2523,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 230
-Duration: 179 seconds
+Duration: 160 seconds
 Rate: 1 / second
 Julian Day: 2456509
 ISO Date: 2013-08-04
@@ -2534,7 +2534,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 231
-Duration: 180 seconds
+Duration: 160 seconds
 Rate: 1 / second
 Julian Day: 2456516
 ISO Date: 2013-08-11
@@ -2545,7 +2545,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 232
-Duration: 181 seconds
+Duration: 162 seconds
 Rate: 1 / second
 Julian Day: 2456523
 ISO Date: 2013-08-18
@@ -2556,7 +2556,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 233
-Duration: 182 seconds
+Duration: 162 seconds
 Rate: 1 / second
 Julian Day: 2456530
 ISO Date: 2013-08-25
@@ -2567,7 +2567,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 234
-Duration: 183 seconds
+Duration: 163 seconds
 Rate: 1 / second
 Julian Day: 2456537
 ISO Date: 2013-09-01
@@ -2578,7 +2578,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 235
-Duration: 184 seconds
+Duration: 163 seconds
 Rate: 1 / second
 Julian Day: 2456544
 ISO Date: 2013-09-08
@@ -2589,7 +2589,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 236
-Duration: 185 seconds
+Duration: 164 seconds
 Rate: 1 / second
 Julian Day: 2456551
 ISO Date: 2013-09-15
@@ -2600,7 +2600,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 237
-Duration: 186 seconds
+Duration: 165 seconds
 Rate: 1 / second
 Julian Day: 2456558
 ISO Date: 2013-09-22
@@ -2611,7 +2611,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 238
-Duration: 186 seconds
+Duration: 165 seconds
 Rate: 1 / second
 Julian Day: 2456565
 ISO Date: 2013-09-29
@@ -2622,7 +2622,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 239
-Duration: 187 seconds
+Duration: 166 seconds
 Rate: 1 / second
 Julian Day: 2456572
 ISO Date: 2013-10-06
@@ -2633,7 +2633,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 240
-Duration: 188 seconds
+Duration: 167 seconds
 Rate: 1 / second
 Julian Day: 2456579
 ISO Date: 2013-10-13
@@ -2644,7 +2644,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 241
-Duration: 188 seconds
+Duration: 168 seconds
 Rate: 1 / second
 Julian Day: 2456586
 ISO Date: 2013-10-20
@@ -2655,7 +2655,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 242
-Duration: 189 seconds
+Duration: 169 seconds
 Rate: 1 / second
 Julian Day: 2456593
 ISO Date: 2013-10-27
@@ -2666,7 +2666,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 243
-Duration: 190 seconds
+Duration: 169 seconds
 Rate: 1 / second
 Julian Day: 2456600
 ISO Date: 2013-11-03
@@ -2677,7 +2677,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 244
-Duration: 191 seconds
+Duration: 169 seconds
 Rate: 1 / second
 Julian Day: 2456607
 ISO Date: 2013-11-10
@@ -2688,7 +2688,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 245
-Duration: 192 seconds
+Duration: 170 seconds
 Rate: 1 / second
 Julian Day: 2456614
 ISO Date: 2013-11-17
@@ -2699,7 +2699,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 246
-Duration: 192 seconds
+Duration: 170 seconds
 Rate: 1 / second
 Julian Day: 2456621
 ISO Date: 2013-11-24
@@ -2710,7 +2710,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 247
-Duration: 193 seconds
+Duration: 171 seconds
 Rate: 1 / second
 Julian Day: 2456628
 ISO Date: 2013-12-01
@@ -2721,7 +2721,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 248
-Duration: 194 seconds
+Duration: 172 seconds
 Rate: 1 / second
 Julian Day: 2456635
 ISO Date: 2013-12-08
@@ -2732,7 +2732,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 249
-Duration: 195 seconds
+Duration: 172 seconds
 Rate: 1 / second
 Julian Day: 2456642
 ISO Date: 2013-12-15
@@ -2743,7 +2743,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 250
-Duration: 195 seconds
+Duration: 173 seconds
 Rate: 1 / second
 Julian Day: 2456649
 ISO Date: 2013-12-22
@@ -2754,7 +2754,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 251
-Duration: 196 seconds
+Duration: 174 seconds
 Rate: 1 / second
 Julian Day: 2456656
 ISO Date: 2013-12-29
@@ -2765,7 +2765,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 252
-Duration: 197 seconds
+Duration: 174 seconds
 Rate: 1 / second
 Julian Day: 2456663
 ISO Date: 2014-01-05
@@ -2776,7 +2776,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 253
-Duration: 197 seconds
+Duration: 175 seconds
 Rate: 1 / second
 Julian Day: 2456670
 ISO Date: 2014-01-12
@@ -2787,7 +2787,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 254
-Duration: 198 seconds
+Duration: 176 seconds
 Rate: 1 / second
 Julian Day: 2456677
 ISO Date: 2014-01-19
@@ -2798,7 +2798,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 255
-Duration: 199 seconds
+Duration: 176 seconds
 Rate: 1 / second
 Julian Day: 2456684
 ISO Date: 2014-01-26
@@ -2809,7 +2809,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 256
-Duration: 199 seconds
+Duration: 177 seconds
 Rate: 1 / second
 Julian Day: 2456691
 ISO Date: 2014-02-02
@@ -2820,7 +2820,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 257
-Duration: 200 seconds
+Duration: 178 seconds
 Rate: 1 / second
 Julian Day: 2456698
 ISO Date: 2014-02-09
@@ -2831,7 +2831,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 258
-Duration: 201 seconds
+Duration: 179 seconds
 Rate: 1 / second
 Julian Day: 2456705
 ISO Date: 2014-02-16
@@ -2842,7 +2842,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 259
-Duration: 202 seconds
+Duration: 179 seconds
 Rate: 1 / second
 Julian Day: 2456712
 ISO Date: 2014-02-23
@@ -2853,7 +2853,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 260
-Duration: 203 seconds
+Duration: 180 seconds
 Rate: 1 / second
 Julian Day: 2456719
 ISO Date: 2014-03-02
@@ -2864,7 +2864,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 261
-Duration: 204 seconds
+Duration: 181 seconds
 Rate: 1 / second
 Julian Day: 2456726
 ISO Date: 2014-03-09
@@ -2875,7 +2875,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 262
-Duration: 204 seconds
+Duration: 182 seconds
 Rate: 1 / second
 Julian Day: 2456733
 ISO Date: 2014-03-16
@@ -2886,7 +2886,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 263
-Duration: 205 seconds
+Duration: 183 seconds
 Rate: 1 / second
 Julian Day: 2456740
 ISO Date: 2014-03-23
@@ -2897,7 +2897,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 264
-Duration: 206 seconds
+Duration: 184 seconds
 Rate: 1 / second
 Julian Day: 2456747
 ISO Date: 2014-03-30
@@ -2908,7 +2908,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 265
-Duration: 207 seconds
+Duration: 185 seconds
 Rate: 1 / second
 Julian Day: 2456754
 ISO Date: 2014-04-06
@@ -2919,7 +2919,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 266
-Duration: 208 seconds
+Duration: 186 seconds
 Rate: 1 / second
 Julian Day: 2456761
 ISO Date: 2014-04-13
@@ -2930,7 +2930,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 267
-Duration: 208 seconds
+Duration: 186 seconds
 Rate: 1 / second
 Julian Day: 2456768
 ISO Date: 2014-04-20
@@ -2941,7 +2941,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 268
-Duration: 209 seconds
+Duration: 187 seconds
 Rate: 1 / second
 Julian Day: 2456775
 ISO Date: 2014-04-27
@@ -2952,7 +2952,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 269
-Duration: 210 seconds
+Duration: 187 seconds
 Rate: 1 / second
 Julian Day: 2456782
 ISO Date: 2014-05-04
@@ -2963,7 +2963,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 270
-Duration: 210 seconds
+Duration: 188 seconds
 Rate: 1 / second
 Julian Day: 2456789
 ISO Date: 2014-05-11
@@ -2974,7 +2974,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 271
-Duration: 211 seconds
+Duration: 189 seconds
 Rate: 1 / second
 Julian Day: 2456796
 ISO Date: 2014-05-18
@@ -2985,7 +2985,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 272
-Duration: 212 seconds
+Duration: 190 seconds
 Rate: 1 / second
 Julian Day: 2456803
 ISO Date: 2014-05-25
@@ -2996,7 +2996,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 273
-Duration: 212 seconds
+Duration: 190 seconds
 Rate: 1 / second
 Julian Day: 2456810
 ISO Date: 2014-06-01
@@ -3007,7 +3007,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 274
-Duration: 213 seconds
+Duration: 191 seconds
 Rate: 1 / second
 Julian Day: 2456817
 ISO Date: 2014-06-08
@@ -3018,7 +3018,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 275
-Duration: 214 seconds
+Duration: 191 seconds
 Rate: 1 / second
 Julian Day: 2456824
 ISO Date: 2014-06-15
@@ -3029,7 +3029,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 276
-Duration: 214 seconds
+Duration: 192 seconds
 Rate: 1 / second
 Julian Day: 2456831
 ISO Date: 2014-06-22
@@ -3040,7 +3040,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 277
-Duration: 215 seconds
+Duration: 192 seconds
 Rate: 1 / second
 Julian Day: 2456838
 ISO Date: 2014-06-29
@@ -3051,7 +3051,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 278
-Duration: 216 seconds
+Duration: 193 seconds
 Rate: 1 / second
 Julian Day: 2456845
 ISO Date: 2014-07-06
@@ -3062,7 +3062,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 279
-Duration: 217 seconds
+Duration: 194 seconds
 Rate: 1 / second
 Julian Day: 2456852
 ISO Date: 2014-07-13
@@ -3073,7 +3073,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 280
-Duration: 217 seconds
+Duration: 195 seconds
 Rate: 1 / second
 Julian Day: 2456859
 ISO Date: 2014-07-20
@@ -3084,7 +3084,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 281
-Duration: 218 seconds
+Duration: 196 seconds
 Rate: 1 / second
 Julian Day: 2456866
 ISO Date: 2014-07-27
@@ -3095,7 +3095,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 282
-Duration: 219 seconds
+Duration: 196 seconds
 Rate: 1 / second
 Julian Day: 2456873
 ISO Date: 2014-08-03
@@ -3106,7 +3106,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 283
-Duration: 220 seconds
+Duration: 197 seconds
 Rate: 1 / second
 Julian Day: 2456880
 ISO Date: 2014-08-10
@@ -3117,7 +3117,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 284
-Duration: 221 seconds
+Duration: 197 seconds
 Rate: 1 / second
 Julian Day: 2456887
 ISO Date: 2014-08-17
@@ -3128,7 +3128,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 285
-Duration: 221 seconds
+Duration: 198 seconds
 Rate: 1 / second
 Julian Day: 2456894
 ISO Date: 2014-08-24
@@ -3139,7 +3139,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 286
-Duration: 222 seconds
+Duration: 198 seconds
 Rate: 1 / second
 Julian Day: 2456901
 ISO Date: 2014-08-31
@@ -3150,7 +3150,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 287
-Duration: 222 seconds
+Duration: 199 seconds
 Rate: 1 / second
 Julian Day: 2456908
 ISO Date: 2014-09-07
@@ -3161,7 +3161,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 288
-Duration: 223 seconds
+Duration: 200 seconds
 Rate: 1 / second
 Julian Day: 2456915
 ISO Date: 2014-09-14
@@ -3172,7 +3172,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 289
-Duration: 224 seconds
+Duration: 201 seconds
 Rate: 1 / second
 Julian Day: 2456922
 ISO Date: 2014-09-21
@@ -3183,7 +3183,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 290
-Duration: 225 seconds
+Duration: 201 seconds
 Rate: 1 / second
 Julian Day: 2456929
 ISO Date: 2014-09-28
@@ -3194,7 +3194,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 291
-Duration: 226 seconds
+Duration: 202 seconds
 Rate: 1 / second
 Julian Day: 2456936
 ISO Date: 2014-10-05
@@ -3205,7 +3205,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 292
-Duration: 227 seconds
+Duration: 203 seconds
 Rate: 1 / second
 Julian Day: 2456943
 ISO Date: 2014-10-12
@@ -3216,7 +3216,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 293
-Duration: 228 seconds
+Duration: 204 seconds
 Rate: 1 / second
 Julian Day: 2456950
 ISO Date: 2014-10-19
@@ -3227,7 +3227,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 294
-Duration: 228 seconds
+Duration: 205 seconds
 Rate: 1 / second
 Julian Day: 2456957
 ISO Date: 2014-10-26
@@ -3238,7 +3238,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 295
-Duration: 229 seconds
+Duration: 206 seconds
 Rate: 1 / second
 Julian Day: 2456964
 ISO Date: 2014-11-02
@@ -3249,7 +3249,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 296
-Duration: 230 seconds
+Duration: 207 seconds
 Rate: 1 / second
 Julian Day: 2456971
 ISO Date: 2014-11-09
@@ -3260,7 +3260,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 297
-Duration: 231 seconds
+Duration: 208 seconds
 Rate: 1 / second
 Julian Day: 2456978
 ISO Date: 2014-11-16
@@ -3271,7 +3271,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 298
-Duration: 231 seconds
+Duration: 208 seconds
 Rate: 1 / second
 Julian Day: 2456985
 ISO Date: 2014-11-23
@@ -3282,7 +3282,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 299
-Duration: 232 seconds
+Duration: 209 seconds
 Rate: 1 / second
 Julian Day: 2456992
 ISO Date: 2014-11-30
@@ -3293,7 +3293,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 300
-Duration: 233 seconds
+Duration: 210 seconds
 Rate: 1 / second
 Julian Day: 2456999
 ISO Date: 2014-12-07
@@ -3304,7 +3304,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 301
-Duration: 233 seconds
+Duration: 210 seconds
 Rate: 1 / second
 Julian Day: 2457006
 ISO Date: 2014-12-14
@@ -3315,7 +3315,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 302
-Duration: 234 seconds
+Duration: 211 seconds
 Rate: 1 / second
 Julian Day: 2457013
 ISO Date: 2014-12-21
@@ -3326,7 +3326,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 303
-Duration: 235 seconds
+Duration: 212 seconds
 Rate: 1 / second
 Julian Day: 2457020
 ISO Date: 2014-12-28
@@ -3337,7 +3337,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 304
-Duration: 236 seconds
+Duration: 213 seconds
 Rate: 1 / second
 Julian Day: 2457027
 ISO Date: 2015-01-04
@@ -3348,7 +3348,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 305
-Duration: 237 seconds
+Duration: 214 seconds
 Rate: 1 / second
 Julian Day: 2457034
 ISO Date: 2015-01-11
@@ -3359,7 +3359,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 306
-Duration: 238 seconds
+Duration: 215 seconds
 Rate: 1 / second
 Julian Day: 2457041
 ISO Date: 2015-01-18
@@ -3370,7 +3370,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 307
-Duration: 239 seconds
+Duration: 216 seconds
 Rate: 1 / second
 Julian Day: 2457048
 ISO Date: 2015-01-25
@@ -3381,7 +3381,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 308
-Duration: 240 seconds
+Duration: 216 seconds
 Rate: 1 / second
 Julian Day: 2457055
 ISO Date: 2015-02-01
@@ -3392,7 +3392,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 309
-Duration: 240 seconds
+Duration: 217 seconds
 Rate: 1 / second
 Julian Day: 2457062
 ISO Date: 2015-02-08
@@ -3403,7 +3403,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 310
-Duration: 241 seconds
+Duration: 217 seconds
 Rate: 1 / second
 Julian Day: 2457069
 ISO Date: 2015-02-15
@@ -3414,7 +3414,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 311
-Duration: 242 seconds
+Duration: 218 seconds
 Rate: 1 / second
 Julian Day: 2457076
 ISO Date: 2015-02-22
@@ -3425,7 +3425,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 312
-Duration: 243 seconds
+Duration: 218 seconds
 Rate: 1 / second
 Julian Day: 2457083
 ISO Date: 2015-03-01
@@ -3436,7 +3436,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 313
-Duration: 244 seconds
+Duration: 219 seconds
 Rate: 1 / second
 Julian Day: 2457090
 ISO Date: 2015-03-08
@@ -3447,7 +3447,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 314
-Duration: 245 seconds
+Duration: 220 seconds
 Rate: 1 / second
 Julian Day: 2457097
 ISO Date: 2015-03-15
@@ -3458,7 +3458,7 @@ File: manga.xml
 Extracted: data.csv
 
 Counter: 315
-Duration: 246 seconds
+Duration: 221 seconds
 Rate: 1 / second
 Julian Day: 2457104
 ISO Date: 2015-03-22
@@ -3467,4 +3467,37 @@ URL: http://api.nytimes.com/svc/books/v3/lists/2015-03-22/manga.xml?api-key=[you
 File: manga.xml
 File: manga.xml
 Extracted: data.csv
-Julian Day End: 2457104
+
+Counter: 316
+Duration: 221 seconds
+Rate: 1 / second
+Julian Day: 2457111
+ISO Date: 2015-03-29
+Folder: ../../2015-03-29-manga-best-seller-list
+URL: http://api.nytimes.com/svc/books/v3/lists/2015-03-29/manga.xml?api-key=[your-key]
+File: manga.xml
+File: manga.xml
+Extracted: data.csv
+
+Counter: 317
+Duration: 222 seconds
+Rate: 1 / second
+Julian Day: 2457118
+ISO Date: 2015-04-05
+Folder: ../../2015-04-05-manga-best-seller-list
+URL: http://api.nytimes.com/svc/books/v3/lists/2015-04-05/manga.xml?api-key=[your-key]
+File: manga.xml
+File: manga.xml
+Extracted: data.csv
+
+Counter: 318
+Duration: 223 seconds
+Rate: 1 / second
+Julian Day: 2457125
+ISO Date: 2015-04-12
+Folder: ../../2015-04-12-manga-best-seller-list
+URL: http://api.nytimes.com/svc/books/v3/lists/2015-04-12/manga.xml?api-key=[your-key]
+File: manga.xml
+File: manga.xml
+Extracted: data.csv
+Julian Day End: 2457125
